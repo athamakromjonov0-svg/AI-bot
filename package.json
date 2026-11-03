@@ -1,0 +1,49 @@
+{
+  "name": "telegram-ai-userbot",
+  "version": "1.0.0",
+  "description": "Autonomous AI Agent with Telegram Bot and Userbot integration",
+  "main": "dist/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "mcp": "node dist/mcp/server.js",
+    "login": "tsx scripts/login-userbot.ts",
+    "lint": "tsc --noEmit"
+  },
+  "keywords": [
+    "telegram",
+    "userbot",
+    "grammy",
+    "gramjs",
+    "ai",
+    "agent",
+    "llm"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2",
+    "bullmq": "^6.4.1",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.9",
+    "express": "^5.3.0",
+    "grammy": "^1.46.0",
+    "helmet": "^8.3.0",
+    "input": "^1.0.1",
+    "ioredis": "^6.0.0",
+    "mongoose": "^9.11.4",
+    "openai": "^7.43.0",
+    "telegram": "^2.26.22",
+    "winston": "^3.19.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.6",
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "telegram-assistant": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["${workspaceFolder}/dist/mcp/server.js"],
+      "env": {
+        "DOTENV_CONFIG_PATH": "${workspaceFolder}/.env"
+      }
+    }
+  }
+}

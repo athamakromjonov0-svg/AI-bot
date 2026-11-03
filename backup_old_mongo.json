@@ -1,0 +1,851 @@
+{
+  "skins": [
+    {
+      "_id": "6ad0898397cf0e4541b61c6e",
+      "skinName": "AK-47 | Redline",
+      "skinRarity": "Epic",
+      "skinPrice": 24.99,
+      "skinImage": "https://res.cloudinary.com/o4wgxtxm/image/upload/v1792488317/cs2-skinmarket/enkblpjjsqlpgszkpedt.webp",
+      "createdAt": "2026-10-15T08:06:27.280Z",
+      "updatedAt": "2026-10-20T09:25:26.083Z"
+    },
+    {
+      "_id": "6ad0898397cf0e4541b61c6f",
+      "skinName": "AWP | Dragon Lore",
+      "skinRarity": "Mythic",
+      "skinPrice": 2450,
+      "skinImage": "https://res.cloudinary.com/o4wgxtxm/image/upload/v1792488318/cs2-skinmarket/udi8kxe9kxghxnw6k9ur.jpg",
+      "createdAt": "2026-10-15T08:06:27.286Z",
+      "updatedAt": "2026-10-20T09:25:27.162Z"
+    },
+    {
+      "_id": "6ad0898397cf0e4541b61c70",
+      "skinName": "M4A4 | Howl",
+      "skinRarity": "Mythic",
+      "skinPrice": 1890.5,
+      "skinImage": "https://res.cloudinary.com/o4wgxtxm/image/upload/v1792488319/cs2-skinmarket/drn6a9wpjxypupcocuye.jpg",
+      "createdAt": "2026-10-15T08:06:27.286Z",
+      "updatedAt": "2026-10-20T09:25:28.373Z"
+    },
+    {
+      "_id": "6ad0898397cf0e4541b61c71",
+      "skinName": "Desert Eagle | Blaze",
+      "skinRarity": "Legendary",
+      "skinPrice": 420,
+      "skinImage": "https://res.cloudinary.com/o4wgxtxm/image/upload/v1792488321/cs2-skinmarket/rgmp914b999ss6yi2sbs.jpg",
+      "createdAt": "2026-10-15T08:06:27.286Z",
+      "updatedAt": "2026-10-20T09:25:29.366Z"
+    },
+    {
+      "_id": "6ad0898397cf0e4541b61c72",
+      "skinName": "Glock-18 | Water Elemental",
+      "skinRarity": "Rare",
+      "skinPrice": 12.5,
+      "skinImage": "https://res.cloudinary.com/o4wgxtxm/image/upload/v1792488322/cs2-skinmarket/m6pcnjvd5pixkqwktau1.jpg",
+      "createdAt": "2026-10-15T08:06:27.286Z",
+      "updatedAt": "2026-10-20T09:25:30.540Z"
+    },
+    {
+      "_id": "6ad0898397cf0e4541b61c73",
+      "skinName": "USP-S | Kill Confirmed",
+      "skinRarity": "Legendary",
+      "skinPrice": 165,
+      "skinImage": "https://res.cloudinary.com/o4wgxtxm/image/upload/v1792488323/cs2-skinmarket/cujttj9asyaqpz4plax4.jpg",
+      "createdAt": "2026-10-15T08:06:27.286Z",
+      "updatedAt": "2026-10-20T09:25:31.678Z"
+    },
+    {
+      "_id": "6ad0898397cf0e4541b61c74",
+      "skinName": "Butterfly Knife | Fade",
+      "skinRarity": "Mythic",
+      "skinPrice": 2750,
+      "skinImage": "https://res.cloudinary.com/o4wgxtxm/image/upload/v1792488324/cs2-skinmarket/mcbunsbk5dbxjb8ytojk.png",
+      "createdAt": "2026-10-15T08:06:27.286Z",
+      "updatedAt": "2026-10-20T09:25:32.939Z"
+    },
+    {
+      "_id": "6ad0898397cf0e4541b61c75",
+      "skinName": "Karambit | Doppler",
+      "skinRarity": "Legendary",
+      "skinPrice": 1150,
+      "skinImage": "https://res.cloudinary.com/o4wgxtxm/image/upload/v1792488325/cs2-skinmarket/vnwmf3lc4wcmlyffklxw.webp",
+      "createdAt": "2026-10-15T08:06:27.286Z",
+      "updatedAt": "2026-10-20T09:25:34.455Z"
+    },
+    {
+      "_id": "6ad0898397cf0e4541b61c76",
+      "skinName": "MP9 | Featherweight",
+      "skinRarity": "Common",
+      "skinPrice": 1.49,
+      "skinImage": "https://res.cloudinary.com/o4wgxtxm/image/upload/v1792488327/cs2-skinmarket/rzxkgaoj6javqi2jhlak.jpg",
+      "createdAt": "2026-10-15T08:06:27.287Z",
+      "updatedAt": "2026-10-20T09:25:35.817Z"
+    },
+    {
+      "_id": "6ad0898397cf0e4541b61c77",
+      "skinName": "P90 | Grim",
+      "skinRarity": "Common",
+      "skinPrice": 2.1,
+      "skinImage": "https://res.cloudinary.com/o4wgxtxm/image/upload/v1792488328/cs2-skinmarket/wnn13q87lwp5miokahhp.jpg",
+      "createdAt": "2026-10-15T08:06:27.287Z",
+      "updatedAt": "2026-10-20T09:25:37.335Z"
+    }
+  ],
+  "cases": [
+    {
+      "_id": "6ad0b5ed996ef5cdd5a78fa0",
+      "caseName": "Boshlang'ich kesh",
+      "casePrice": 100,
+      "imageUrl": null,
+      "skins": [
+        {
+          "skin": "6ad0898397cf0e4541b61c76",
+          "chance": 35
+        },
+        {
+          "skin": "6ad0898397cf0e4541b61c77",
+          "chance": 35
+        },
+        {
+          "skin": "6ad0898397cf0e4541b61c72",
+          "chance": 25
+        },
+        {
+          "skin": "6ad0898397cf0e4541b61c6e",
+          "chance": 5
+        }
+      ],
+      "isAvailable": true,
+      "createdAt": "2026-10-15T11:15:57.067Z",
+      "updatedAt": "2026-10-15T11:15:57.067Z"
+    },
+    {
+      "_id": "6ad0b5ed996ef5cdd5a78fa1",
+      "caseName": "Elita kesh",
+      "casePrice": 500,
+      "imageUrl": null,
+      "skins": [
+        {
+          "skin": "6ad0898397cf0e4541b61c72",
+          "chance": 50
+        },
+        {
+          "skin": "6ad0898397cf0e4541b61c6e",
+          "chance": 35
+        },
+        {
+          "skin": "6ad0898397cf0e4541b61c71",
+          "chance": 5
+        },
+        {
+          "skin": "6ad0898397cf0e4541b61c73",
+          "chance": 5
+        },
+        {
+          "skin": "6ad0898397cf0e4541b61c75",
+          "chance": 5
+        }
+      ],
+      "isAvailable": true,
+      "createdAt": "2026-10-15T11:15:57.068Z",
+      "updatedAt": "2026-10-15T11:15:57.068Z"
+    },
+    {
+      "_id": "6ad0b5ed996ef5cdd5a78fa2",
+      "caseName": "Mifologik kesh",
+      "casePrice": 1500,
+      "imageUrl": null,
+      "skins": [
+        {
+          "skin": "6ad0898397cf0e4541b61c6e",
+          "chance": 60
+        },
+        {
+          "skin": "6ad0898397cf0e4541b61c71",
+          "chance": 10
+        },
+        {
+          "skin": "6ad0898397cf0e4541b61c73",
+          "chance": 10
+        },
+        {
+          "skin": "6ad0898397cf0e4541b61c75",
+          "chance": 10
+        },
+        {
+          "skin": "6ad0898397cf0e4541b61c6f",
+          "chance": 3.333
+        },
+        {
+          "skin": "6ad0898397cf0e4541b61c70",
+          "chance": 3.333
+        },
+        {
+          "skin": "6ad0898397cf0e4541b61c74",
+          "chance": 3.334
+        }
+      ],
+      "isAvailable": true,
+      "createdAt": "2026-10-15T11:15:57.069Z",
+      "updatedAt": "2026-10-15T11:15:57.069Z"
+    }
+  ],
+  "inventories": [
+    {
+      "_id": "6ad09851edf8f41c55f6fec8",
+      "user": "6ad097acedf8f41c55f6fec6",
+      "skin": "6ad0898397cf0e4541b61c76",
+      "sourceCase": null,
+      "status": "sold",
+      "obtainedAt": "2026-10-15T09:09:37.118Z",
+      "__v": 0
+    },
+    {
+      "_id": "6ad09a19edf8f41c55f6fece",
+      "user": "6ad099e8edf8f41c55f6fecb",
+      "skin": "6ad0898397cf0e4541b61c6e",
+      "sourceCase": null,
+      "status": "owned",
+      "obtainedAt": "2026-10-15T09:17:13.115Z",
+      "__v": 0
+    },
+    {
+      "_id": "6ad0bb9cae01c66f7f218b41",
+      "user": "6ad096b6d09fcc35025a4532",
+      "skin": "6ad0898397cf0e4541b61c77",
+      "sourceCase": "6ad0b5ed996ef5cdd5a78fa0",
+      "status": "owned",
+      "obtainedAt": "2026-10-15T11:40:12.860Z"
+    },
+    {
+      "_id": "6ad0bba6ae01c66f7f218b43",
+      "user": "6ad096b6d09fcc35025a4532",
+      "skin": "6ad0898397cf0e4541b61c6e",
+      "sourceCase": "6ad0b5ed996ef5cdd5a78fa2",
+      "status": "owned",
+      "obtainedAt": "2026-10-15T11:40:22.739Z"
+    },
+    {
+      "_id": "6ad0bd1bae01c66f7f218b45",
+      "user": "6ad096b6d09fcc35025a4532",
+      "skin": "6ad0898397cf0e4541b61c71",
+      "sourceCase": "6ad0b5ed996ef5cdd5a78fa1",
+      "status": "sold",
+      "obtainedAt": "2026-10-15T11:46:35.152Z"
+    },
+    {
+      "_id": "6ad0c6a7ae01c66f7f218b47",
+      "user": "6ad096b6d09fcc35025a4532",
+      "skin": "6ad0898397cf0e4541b61c74",
+      "sourceCase": null,
+      "status": "owned",
+      "obtainedAt": "2026-10-15T12:27:19.464Z"
+    },
+    {
+      "_id": "6ad0c6aeae01c66f7f218b48",
+      "user": "6ad096b6d09fcc35025a4532",
+      "skin": "6ad0898397cf0e4541b61c75",
+      "sourceCase": null,
+      "status": "owned",
+      "obtainedAt": "2026-10-15T12:27:26.401Z"
+    },
+    {
+      "_id": "6ad356f2f7bee7ac31766602",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "skin": "6ad0898397cf0e4541b61c77",
+      "sourceCase": "6ad0b5ed996ef5cdd5a78fa0",
+      "status": "owned",
+      "obtainedAt": "2026-10-17T11:07:30.268Z"
+    },
+    {
+      "_id": "6ad35763f7bee7ac31766604",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "skin": "6ad0898397cf0e4541b61c6e",
+      "sourceCase": "6ad0b5ed996ef5cdd5a78fa2",
+      "status": "owned",
+      "obtainedAt": "2026-10-17T11:09:23.007Z"
+    },
+    {
+      "_id": "6ad35a295f25ae3859ccdbee",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "skin": "6ad0898397cf0e4541b61c75",
+      "sourceCase": "6ad0b5ed996ef5cdd5a78fa1",
+      "status": "owned",
+      "obtainedAt": "2026-10-17T11:21:13.793Z"
+    },
+    {
+      "_id": "6ad35a4f5f25ae3859ccdbf0",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "skin": "6ad0898397cf0e4541b61c76",
+      "sourceCase": "6ad0b5ed996ef5cdd5a78fa0",
+      "status": "owned",
+      "obtainedAt": "2026-10-17T11:21:51.998Z"
+    },
+    {
+      "_id": "6ad733024e54c660c18c5488",
+      "user": "6ad096b6d09fcc35025a4532",
+      "skin": "6ad0898397cf0e4541b61c72",
+      "sourceCase": "6ad0b5ed996ef5cdd5a78fa1",
+      "status": "owned",
+      "obtainedAt": "2026-10-20T09:23:14.646Z"
+    },
+    {
+      "_id": "6ad738e64e54c660c18c548a",
+      "user": "6ad096b6d09fcc35025a4532",
+      "skin": "6ad0898397cf0e4541b61c77",
+      "sourceCase": "6ad0b5ed996ef5cdd5a78fa0",
+      "status": "owned",
+      "obtainedAt": "2026-10-20T09:48:22.470Z"
+    },
+    {
+      "_id": "6ad738f14e54c660c18c548c",
+      "user": "6ad096b6d09fcc35025a4532",
+      "skin": "6ad0898397cf0e4541b61c6e",
+      "sourceCase": "6ad0b5ed996ef5cdd5a78fa2",
+      "status": "owned",
+      "obtainedAt": "2026-10-20T09:48:33.461Z"
+    },
+    {
+      "_id": "6ad73cf0ddf442cb8ac25a4a",
+      "user": "6ad096b6d09fcc35025a4532",
+      "skin": "6ad0898397cf0e4541b61c72",
+      "sourceCase": "6ad0b5ed996ef5cdd5a78fa1",
+      "status": "owned",
+      "obtainedAt": "2026-10-20T10:05:36.556Z"
+    },
+    {
+      "_id": "6ad73d3eddf442cb8ac25a4c",
+      "user": "6ad096b6d09fcc35025a4532",
+      "skin": "6ad0898397cf0e4541b61c71",
+      "sourceCase": "6ad0b5ed996ef5cdd5a78fa1",
+      "status": "owned",
+      "obtainedAt": "2026-10-20T10:06:54.546Z"
+    },
+    {
+      "_id": "6ad7441759806ed9beb1ef01",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "skin": "6ad0898397cf0e4541b61c72",
+      "sourceCase": "6ad0b5ed996ef5cdd5a78fa1",
+      "status": "owned",
+      "obtainedAt": "2026-10-20T10:36:07.761Z"
+    },
+    {
+      "_id": "6ad74fca17b8b639822f13bb",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "skin": "6ad0898397cf0e4541b61c75",
+      "sourceCase": "6ad0b5ed996ef5cdd5a78fa2",
+      "status": "owned",
+      "obtainedAt": "2026-10-20T11:26:02.374Z"
+    },
+    {
+      "_id": "6ad74ff317b8b639822f13bd",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "skin": "6ad0898397cf0e4541b61c70",
+      "sourceCase": "6ad0b5ed996ef5cdd5a78fa2",
+      "status": "owned",
+      "obtainedAt": "2026-10-20T11:26:43.425Z"
+    }
+  ],
+  "users": [
+    {
+      "_id": "6acfc3e1803e190f9b82e2dc",
+      "username": "SuperAdmin",
+      "email": "admin@gmail.com",
+      "password": "$2b$10$AULXuJdkZEKPw5D9Lv55NOp3s6dpyqwB/EMpyy58e4IhJ0iEKWUte",
+      "role": "admin",
+      "wallet": 62409.5,
+      "skins": [
+        "6ad0898397cf0e4541b61c70",
+        "6ad0898397cf0e4541b61c77",
+        "6ad0898397cf0e4541b61c6e",
+        "6ad0898397cf0e4541b61c75",
+        "6ad0898397cf0e4541b61c76",
+        "6ad0898397cf0e4541b61c72"
+      ],
+      "createdAt": "2026-10-14T18:03:13.489Z",
+      "updatedAt": "2026-10-20T11:26:43.336Z",
+      "__v": 0,
+      "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhY2ZjM2UxODAzZTE5MGY5YjgyZTJkYyIsImlhdCI6MTc5MjA1MTI0MCwiZXhwIjoxNzkyNjU2MDQwfQ.n1vsTYrrKm2s7BWC80OwogZL8riWkR2hsSWAC7XPA3E",
+      "isBanned": false
+    },
+    {
+      "_id": "6ad096b6d09fcc35025a4532",
+      "username": "atham",
+      "email": "athamakromjonov0@gmail.com",
+      "password": "$2b$10$gcLRL9FoCoOmAH15o5zZ6emwSbxai42TGiKi.fRH9iDSKgrutzVtm",
+      "role": "user",
+      "wallet": 7086.01,
+      "isBanned": false,
+      "skins": [
+        "6ad0898397cf0e4541b61c6e",
+        "6ad0898397cf0e4541b61c6f",
+        "6ad0898397cf0e4541b61c70",
+        "6ad0898397cf0e4541b61c77",
+        "6ad0898397cf0e4541b61c74",
+        "6ad0898397cf0e4541b61c75",
+        "6ad0898397cf0e4541b61c72",
+        "6ad0898397cf0e4541b61c71"
+      ],
+      "createdAt": "2026-10-15T09:02:46.869Z",
+      "updatedAt": "2026-10-20T10:06:54.456Z"
+    },
+    {
+      "_id": "6ad0a35a69274c34e46a012f",
+      "username": "latta",
+      "email": "athamakromjonov99@gmail.com",
+      "password": "$2b$10$rvTSYPH7.FBYSxwgmj6LhuhslT6X9gcVNkrHVK7tjH5UUQr25vXUW",
+      "role": "user",
+      "wallet": 33890.5,
+      "isBanned": false,
+      "skins": [],
+      "createdAt": "2026-10-15T09:56:42.928Z",
+      "updatedAt": "2026-10-17T11:09:51.230Z"
+    }
+  ],
+  "transactions": [
+    {
+      "_id": "6ad0936cd09fcc35025a4531",
+      "user": "6ad0936ad09fcc35025a4530",
+      "type": "deposit",
+      "amount": 500,
+      "balanceBefore": 0,
+      "balanceAfter": 500,
+      "createdAt": "2026-10-15T08:48:44.118Z"
+    },
+    {
+      "_id": "6ad096d4d09fcc35025a4533",
+      "user": "6ad096b6d09fcc35025a4532",
+      "type": "deposit",
+      "amount": 500,
+      "balanceBefore": 0,
+      "balanceAfter": 500,
+      "createdAt": "2026-10-15T09:03:16.685Z"
+    },
+    {
+      "_id": "6ad096dad09fcc35025a4534",
+      "user": "6ad096b6d09fcc35025a4532",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 500,
+      "balanceAfter": 5500,
+      "createdAt": "2026-10-15T09:03:22.143Z"
+    },
+    {
+      "_id": "6ad09842edf8f41c55f6fec7",
+      "user": "6ad097acedf8f41c55f6fec6",
+      "type": "deposit",
+      "amount": 100,
+      "balanceBefore": 0,
+      "balanceAfter": 100,
+      "createdAt": "2026-10-15T09:09:22.709Z",
+      "updatedAt": "2026-10-15T09:09:22.709Z",
+      "__v": 0
+    },
+    {
+      "_id": "6ad09851edf8f41c55f6fec9",
+      "user": "6ad097acedf8f41c55f6fec6",
+      "type": "skin_buy",
+      "amount": -1.49,
+      "balanceBefore": 100,
+      "balanceAfter": 98.51,
+      "createdAt": "2026-10-15T09:09:37.278Z",
+      "updatedAt": "2026-10-15T09:09:37.278Z",
+      "__v": 0
+    },
+    {
+      "_id": "6ad09891edf8f41c55f6feca",
+      "user": "6ad097acedf8f41c55f6fec6",
+      "type": "skin_sale",
+      "amount": 1.49,
+      "balanceBefore": 98.51,
+      "balanceAfter": 100,
+      "createdAt": "2026-10-15T09:10:41.998Z",
+      "updatedAt": "2026-10-15T09:10:41.998Z",
+      "__v": 0
+    },
+    {
+      "_id": "6ad09a03edf8f41c55f6fecc",
+      "user": "6ad099e8edf8f41c55f6fecb",
+      "type": "deposit",
+      "amount": 50,
+      "balanceBefore": 0,
+      "balanceAfter": 50,
+      "createdAt": "2026-10-15T09:16:51.981Z",
+      "updatedAt": "2026-10-15T09:16:51.981Z",
+      "__v": 0
+    },
+    {
+      "_id": "6ad09a14edf8f41c55f6fecd",
+      "user": "6ad099e8edf8f41c55f6fecb",
+      "type": "deposit",
+      "amount": 100,
+      "balanceBefore": 50,
+      "balanceAfter": 150,
+      "createdAt": "2026-10-15T09:17:08.905Z",
+      "updatedAt": "2026-10-15T09:17:08.905Z",
+      "__v": 0
+    },
+    {
+      "_id": "6ad09a19edf8f41c55f6fecf",
+      "user": "6ad099e8edf8f41c55f6fecb",
+      "type": "skin_buy",
+      "amount": -24.99,
+      "balanceBefore": 150,
+      "balanceAfter": 125.01,
+      "createdAt": "2026-10-15T09:17:13.274Z",
+      "updatedAt": "2026-10-15T09:17:13.274Z",
+      "__v": 0
+    },
+    {
+      "_id": "6ad0a12369274c34e46a0123",
+      "user": "6ad096b6d09fcc35025a4532",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 392.0100000000002,
+      "balanceAfter": 5392.01,
+      "createdAt": "2026-10-15T09:47:15.497Z"
+    },
+    {
+      "_id": "6ad0a12669274c34e46a0124",
+      "user": "6ad096b6d09fcc35025a4532",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 5392.01,
+      "balanceAfter": 10392.01,
+      "createdAt": "2026-10-15T09:47:18.241Z"
+    },
+    {
+      "_id": "6ad0a12869274c34e46a0125",
+      "user": "6ad096b6d09fcc35025a4532",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 10392.01,
+      "balanceAfter": 15392.01,
+      "createdAt": "2026-10-15T09:47:20.508Z"
+    },
+    {
+      "_id": "6ad0a32669274c34e46a012d",
+      "user": "6ad096b6d09fcc35025a4532",
+      "type": "deposit",
+      "amount": 500,
+      "balanceBefore": 15392.01,
+      "balanceAfter": 15892.01,
+      "createdAt": "2026-10-15T09:55:50.001Z"
+    },
+    {
+      "_id": "6ad0a36169274c34e46a0130",
+      "user": "6ad0a35a69274c34e46a012f",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 0,
+      "balanceAfter": 5000,
+      "createdAt": "2026-10-15T09:56:49.925Z"
+    },
+    {
+      "_id": "6ad0a36569274c34e46a0131",
+      "user": "6ad0a35a69274c34e46a012f",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 5000,
+      "balanceAfter": 10000,
+      "createdAt": "2026-10-15T09:56:53.028Z"
+    },
+    {
+      "_id": "6ad0a36769274c34e46a0132",
+      "user": "6ad0a35a69274c34e46a012f",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 10000,
+      "balanceAfter": 15000,
+      "createdAt": "2026-10-15T09:56:55.410Z"
+    },
+    {
+      "_id": "6ad0a36969274c34e46a0133",
+      "user": "6ad0a35a69274c34e46a012f",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 15000,
+      "balanceAfter": 20000,
+      "createdAt": "2026-10-15T09:56:57.834Z"
+    },
+    {
+      "_id": "6ad0a36c69274c34e46a0134",
+      "user": "6ad0a35a69274c34e46a012f",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 20000,
+      "balanceAfter": 25000,
+      "createdAt": "2026-10-15T09:57:00.233Z"
+    },
+    {
+      "_id": "6ad0a36e69274c34e46a0135",
+      "user": "6ad0a35a69274c34e46a012f",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 25000,
+      "balanceAfter": 30000,
+      "createdAt": "2026-10-15T09:57:02.570Z"
+    },
+    {
+      "_id": "6ad0a37069274c34e46a0136",
+      "user": "6ad0a35a69274c34e46a012f",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 30000,
+      "balanceAfter": 35000,
+      "createdAt": "2026-10-15T09:57:04.950Z"
+    },
+    {
+      "_id": "6ad0a66769274c34e46a0139",
+      "user": "6ad0a35a69274c34e46a012f",
+      "type": "deposit",
+      "amount": 500,
+      "balanceBefore": 35000,
+      "balanceAfter": 35500,
+      "createdAt": "2026-10-15T10:09:43.604Z"
+    },
+    {
+      "_id": "6ad0bb9cae01c66f7f218b42",
+      "user": "6ad096b6d09fcc35025a4532",
+      "type": "case_open",
+      "amount": 100,
+      "balanceBefore": 15892.01,
+      "balanceAfter": 15792.01,
+      "createdAt": "2026-10-15T11:40:12.966Z"
+    },
+    {
+      "_id": "6ad0bba6ae01c66f7f218b44",
+      "user": "6ad096b6d09fcc35025a4532",
+      "type": "case_open",
+      "amount": 1500,
+      "balanceBefore": 15792.01,
+      "balanceAfter": 14292.01,
+      "createdAt": "2026-10-15T11:40:22.866Z"
+    },
+    {
+      "_id": "6ad0bd1bae01c66f7f218b46",
+      "user": "6ad096b6d09fcc35025a4532",
+      "type": "case_open",
+      "amount": 500,
+      "balanceBefore": 14292.01,
+      "balanceAfter": 13792.01,
+      "createdAt": "2026-10-15T11:46:35.286Z"
+    },
+    {
+      "_id": "6ad0c6ceae01c66f7f218b49",
+      "user": "6ad096b6d09fcc35025a4532",
+      "type": "skin_sale",
+      "amount": 294,
+      "balanceBefore": 9892.01,
+      "balanceAfter": 10186.01,
+      "createdAt": "2026-10-15T12:27:58.582Z"
+    },
+    {
+      "_id": "6ad356f2f7bee7ac31766603",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "type": "case_open",
+      "amount": 100,
+      "balanceBefore": 8109.5,
+      "balanceAfter": 8009.5,
+      "createdAt": "2026-10-17T11:07:30.537Z"
+    },
+    {
+      "_id": "6ad35763f7bee7ac31766605",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "type": "case_open",
+      "amount": 1500,
+      "balanceBefore": 8009.5,
+      "balanceAfter": 6509.5,
+      "createdAt": "2026-10-17T11:09:23.307Z"
+    },
+    {
+      "_id": "6ad35a2a5f25ae3859ccdbef",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "type": "case_open",
+      "amount": 500,
+      "balanceBefore": 6509.5,
+      "balanceAfter": 6009.5,
+      "createdAt": "2026-10-17T11:21:14.059Z"
+    },
+    {
+      "_id": "6ad35a505f25ae3859ccdbf1",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "type": "case_open",
+      "amount": 100,
+      "balanceBefore": 6009.5,
+      "balanceAfter": 5909.5,
+      "createdAt": "2026-10-17T11:21:52.237Z"
+    },
+    {
+      "_id": "6ad35a5c5f25ae3859ccdbf2",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 5909.5,
+      "balanceAfter": 10909.5,
+      "createdAt": "2026-10-17T11:22:04.754Z"
+    },
+    {
+      "_id": "6ad733024e54c660c18c5489",
+      "user": "6ad096b6d09fcc35025a4532",
+      "type": "case_open",
+      "amount": 500,
+      "balanceBefore": 10186.01,
+      "balanceAfter": 9686.01,
+      "createdAt": "2026-10-20T09:23:14.750Z"
+    },
+    {
+      "_id": "6ad738e64e54c660c18c548b",
+      "user": "6ad096b6d09fcc35025a4532",
+      "type": "case_open",
+      "amount": 100,
+      "balanceBefore": 9686.01,
+      "balanceAfter": 9586.01,
+      "createdAt": "2026-10-20T09:48:22.561Z"
+    },
+    {
+      "_id": "6ad738f14e54c660c18c548d",
+      "user": "6ad096b6d09fcc35025a4532",
+      "type": "case_open",
+      "amount": 1500,
+      "balanceBefore": 9586.01,
+      "balanceAfter": 8086.01,
+      "createdAt": "2026-10-20T09:48:33.549Z"
+    },
+    {
+      "_id": "6ad73cf0ddf442cb8ac25a4b",
+      "user": "6ad096b6d09fcc35025a4532",
+      "type": "case_open",
+      "amount": 500,
+      "balanceBefore": 8086.01,
+      "balanceAfter": 7586.01,
+      "createdAt": "2026-10-20T10:05:36.656Z"
+    },
+    {
+      "_id": "6ad73d3eddf442cb8ac25a4d",
+      "user": "6ad096b6d09fcc35025a4532",
+      "type": "case_open",
+      "amount": 500,
+      "balanceBefore": 7586.01,
+      "balanceAfter": 7086.01,
+      "createdAt": "2026-10-20T10:06:54.634Z"
+    },
+    {
+      "_id": "6ad7441759806ed9beb1ef02",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "type": "case_open",
+      "amount": 500,
+      "balanceBefore": 10909.5,
+      "balanceAfter": 10409.5,
+      "createdAt": "2026-10-20T10:36:07.856Z"
+    },
+    {
+      "_id": "6ad74ed817b8b639822f13b1",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 10409.5,
+      "balanceAfter": 15409.5,
+      "createdAt": "2026-10-20T11:22:00.234Z"
+    },
+    {
+      "_id": "6ad74edb17b8b639822f13b2",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 15409.5,
+      "balanceAfter": 20409.5,
+      "createdAt": "2026-10-20T11:22:03.700Z"
+    },
+    {
+      "_id": "6ad74edf17b8b639822f13b3",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 20409.5,
+      "balanceAfter": 25409.5,
+      "createdAt": "2026-10-20T11:22:07.881Z"
+    },
+    {
+      "_id": "6ad74ee217b8b639822f13b4",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 25409.5,
+      "balanceAfter": 30409.5,
+      "createdAt": "2026-10-20T11:22:10.724Z"
+    },
+    {
+      "_id": "6ad74ee417b8b639822f13b5",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 30409.5,
+      "balanceAfter": 35409.5,
+      "createdAt": "2026-10-20T11:22:12.965Z"
+    },
+    {
+      "_id": "6ad74f1a17b8b639822f13b6",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "type": "deposit",
+      "amount": 10000,
+      "balanceBefore": 35409.5,
+      "balanceAfter": 45409.5,
+      "createdAt": "2026-10-20T11:23:06.178Z"
+    },
+    {
+      "_id": "6ad74f1e17b8b639822f13b7",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 45409.5,
+      "balanceAfter": 50409.5,
+      "createdAt": "2026-10-20T11:23:10.188Z"
+    },
+    {
+      "_id": "6ad74f2017b8b639822f13b8",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 50409.5,
+      "balanceAfter": 55409.5,
+      "createdAt": "2026-10-20T11:23:12.161Z"
+    },
+    {
+      "_id": "6ad74f2217b8b639822f13b9",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 55409.5,
+      "balanceAfter": 60409.5,
+      "createdAt": "2026-10-20T11:23:14.428Z"
+    },
+    {
+      "_id": "6ad74f2517b8b639822f13ba",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "type": "deposit",
+      "amount": 5000,
+      "balanceBefore": 60409.5,
+      "balanceAfter": 65409.5,
+      "createdAt": "2026-10-20T11:23:17.472Z"
+    },
+    {
+      "_id": "6ad74fca17b8b639822f13bc",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "type": "case_open",
+      "amount": 1500,
+      "balanceBefore": 65409.5,
+      "balanceAfter": 63909.5,
+      "createdAt": "2026-10-20T11:26:02.466Z"
+    },
+    {
+      "_id": "6ad74ff317b8b639822f13be",
+      "user": "6acfc3e1803e190f9b82e2dc",
+      "type": "case_open",
+      "amount": 1500,
+      "balanceBefore": 63909.5,
+      "balanceAfter": 62409.5,
+      "createdAt": "2026-10-20T11:26:43.514Z"
+    }
+  ]
+}

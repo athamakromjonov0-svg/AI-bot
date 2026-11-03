@@ -1,0 +1,32 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment and sensitive keys
+.env
+.env.local
+.env.production
+sessions/
+*.session
+
+# Voice-bot secrets (golos-matn-dars darsi)
+golos-matn-dars/config.json
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python (golos-matn-dars darsi)
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# System
+.DS_Store
+Thumbs.db
